@@ -8,5 +8,3 @@ library(styler)
 library(testthat)
 
 # Production dependencies
-
-library(pak)
